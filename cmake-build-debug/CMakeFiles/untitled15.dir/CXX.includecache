@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Leonid/CLionProjects/untitled15/Account.cpp
+Account.h
+C:/Users/Leonid/CLionProjects/untitled15/Account.h
+
+C:/Users/Leonid/CLionProjects/untitled15/Account.h
+
+C:/Users/Leonid/CLionProjects/untitled15/arra.cpp
+iostream
+-
+cassert
+-
+iomanip
+-
+fstream
+-
+string
+-
+cmath
+-
+ctime
+-
+cstdlib
+-
+Account.h
+C:/Users/Leonid/CLionProjects/untitled15/Account.h
+
